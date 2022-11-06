@@ -2,6 +2,10 @@
   "name": "anchoredmulticursor",
   "displayName": "anchoredMulticursor",
   "description": "anchors for creating multi-cursors",
+  "publisher": "d372dfb7-45d4-6a22-990e-0535a896c1d5",
+  "repository": {
+    "url": "https://github.com/worldmaker18349276/anchoredmulticursor"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.73.0"
